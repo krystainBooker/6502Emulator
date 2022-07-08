@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Krystian Booker\Documents\Code\6502Emulator\6502EmulatorTest\build\CMakeFiles\4214ec88a492556a0caca90acffe5672\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DF5E6F1B-A86C-39B7-A619-AADF4C143342}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
