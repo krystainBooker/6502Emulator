@@ -1,0 +1,4 @@
+[submodule "lib/gtest"]
+    path = 6502EmulatorTests/lib
+    url = https://github.com/google/googletest.git
+    branch = main
